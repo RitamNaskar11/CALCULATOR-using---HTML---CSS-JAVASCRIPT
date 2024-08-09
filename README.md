@@ -4,3 +4,4 @@ This is a simple calculator application built using HTML/CSS, JavaScript. The ca
 It’s designed to be a user-friendly tool for performing quick and accurate calculations.
 
 ## SKILLS
+HTML,CSS,JAVSCRIPT
