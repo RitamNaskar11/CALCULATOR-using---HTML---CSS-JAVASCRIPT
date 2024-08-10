@@ -1,1 +1,3 @@
-# Calculator make with HTML, CSS & JAVASCRIPT
+# Calculator 
+Make with HTML, CSS & JAVASCRIPT
+
