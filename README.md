@@ -6,7 +6,7 @@ Welcome to my simple calculator built with HTML, CSS, and JavaScript!🎉
 HTML/CSS for structure and design 🖥️
 JavaScript for interactivity 
 
-#✨ Features
+# ✨ Features
 Clear Display ('C'): Quickly reset the display to start a new calculation.
 Basic Arithmetic Operations:
 - Addition ('+')
