@@ -8,7 +8,7 @@ JavaScript for interactivity
 
 # ✨ Features
 Clear Display ('C'): Quickly reset the display to start a new calculation.
--- Basic Arithmetic Operations:
+- Basic Arithmetic Operations:
 - Addition ('+')
 - Substraction ('-')
 - Multiplication ('×')
