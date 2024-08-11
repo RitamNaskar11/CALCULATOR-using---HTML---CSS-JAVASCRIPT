@@ -15,7 +15,7 @@ Clear Display ('C'): Quickly reset the display to start a new calculation.
 - Dvision ('÷')
 - Result Calculation ('=')
 
-# Project Structer 
+# 🛠️Project Structer 
 - index.html:  Defines the layout and structure of the calculator, including the display screen and buttons.
 - style.css: Provides styling for the calculator, ensuring a responsive and visually appealing design.
 - programs.js: Implements the functionality of the calculator, handling button clicks, arithmetic operations, and display updates.
